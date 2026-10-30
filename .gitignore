@@ -1,0 +1,6 @@
+/artifacts/
+/releases/
+/.test-data/
+/.preview-data/
+/*.exe
+/*.pdb
